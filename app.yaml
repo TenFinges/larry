@@ -1,0 +1,2 @@
+framework: streamlit
+command: [streamlit, run, app.py]
